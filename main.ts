@@ -108,7 +108,7 @@ let eimer: game.LedSprite = null
 basic.setLedColor(0x00ff00)
 let wasser = game.createSprite(2, 0)
 eimer = game.createSprite(2, 4)
-let leben = 3
+let leben = 5
 let spielstand = 0
 music.setVolume(70)
 basic.forever(function () {
